@@ -1,4 +1,4 @@
-                                                                                               # SimpleLand-Compiler
+                                                    # SimpleLang-Compiler
 
 This project is a simple compiler for a custom language called SimpleLang. It tokenizes, parses, and generates assembly code for a subset of imperative programming constructs.
 
